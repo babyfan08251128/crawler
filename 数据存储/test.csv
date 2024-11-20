@@ -1,0 +1,613 @@
+序号,UID,MessageID,邮件处理时间,邮件主题,实际发件人,显示发件人,实际收件人,显示收件人,邮件协议,邮件来源,标签,判定结果,URL链接,邮件附件,杀毒引擎,历史攻击单位,邮件语种,邮件大小,密送人,格式化的密送人,送达地址
+1,399907042061189120,ca941d2735a2b0ea35ed5bc11d3ab7ba0fe7964f.24a54f32.eb37.447e.a1ca.a31916ba136a@feishu.cn,2024-11-20 15:00:31,转发：GBT 30282-2013信息安全技术 反垃圾邮件产品技术要求和测试评价方法(2)(1)_功能标注pdf,default@m01Test.com,shenzongxu@relaxcloud.cn,M01test@m01Test.com,szx_baby_fan@126.com,,BCC,文件中转站,安全邮件,"https://mail.qq.com/cgi-bin/ftnExs_download?k=e96532623a34dfcb6015a13c1e30501b1b110000595107064e5c50520a1d070153511f00590154190004565a5e025750575d0152386562732131125108025a064e5702530be0a7fbc1d580aa938cdefe964585d6f89cd9ccb0af8e9c8acaa483dfd9f897ea9aa5c7d9a88080f2e4a4f4dfbe85df8f984a064a4d034b6789c4f0bfd4d8b59a4006524d155604380d&t=exs_ftn_download&code=ce2b80b4>
+ https://mail.qq.com/cgi-bin/ftnExs_download?k=e96532623a34dfcb6015a13c1e30501b1b110000595107064e5c50520a1d070153511f00590154190004565a5e025750575d0152386562732131125108025a064e5702530be0a7fbc1d580aa938cdefe964585d6f89cd9ccb0af8e9c8acaa483dfd9f897ea9aa5c7d9a88080f2e4a4f4dfbe85df8f984a064a4d034b6789c4f0bfd4d8b59a4006524d155604380d&t=exs_ftn_download&code=ce2b80b4",,0/7,,中文,18447,,,
+2,399906973341712384,F9C824F6-8D3A-42E8-9C16-A60634A41F94@126.com,2024-11-20 15:00:31,文件中转站,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,"图片URL
+静态网站
+文件中转站邮件URL域白名单",安全邮件,"https://mail.163.com/large-attachment-download/index.html?p=X-NTES-HUGE-ATTACHMENT&file=djAyUmhMTW8zY3dXbFVpb2FuOGViYVA5dz09
+ https://mail.163.com/large-attachment-download/index.html?p=X-NTES-HUGE-ATTACHMENT&file=djAyV3B4ekpURlRHNkxoU1FCanRvVERBdz09
+ https://dashi.163.com/html/cloud-attachment-download/?key=djAyb3BGRzYvbFZpcjVDc0VxYzdiQWRnQT09
+ http://mimg.127.net/hxm/dashi/client/pc/icon/icon_pdf.png",,0/7,,中文,5580,,,
+3,399906964751777805,margaret94@example.org.tr,2024-11-20 15:00:31,是订单: DANG XIAN LIST FOR MAY 2022,default@m01Test.com,Pinar.Altunkasl@sesinoks.com.tr,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"回复地址不一致
+URL重定向钓鱼邮件",威胁邮件,"http://www.sesinoks.com.tr/
+ https://www.google.com/url?q=http://www.sesinoks.com.tr/&source=gmail&ust52449266427000&usg=AOvVaw3R9whxefVqNcE1GeWrJuOC
+ http://www.sesinoks.com.tr","unnamed.jpg
+ tr.jpg
+ SESINOKS List.zip",0/7,,英语,1084137,,,
+4,399906956161843447,margaret94@example.org,2024-11-20 15:00:31,配送详情无效.4/1/2022 7:34:22 a.m.,default@m01Test.com,iwnm@no-reply.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"图片URL
+WordPress框架钓鱼话术钓鱼邮件",威胁邮件,"https://click.message.fedex.com/?qsd2211f490ccb5a826b565782bfa032c0ebca50474b185df505bb5002255cffe9cfc6710e95718d2052639684350935150f933c5b9ba9191b02bdcf08dd63da
+ https://click.message.fedex.com/?qs
+ https://www.fedex.com/content/dam/fedex/us-united-states/self-help/images/2019/Q2/Register_Delivery_Manager_Step_2_1643264634.jpg
+ https://www.fedex.com/etc.clientlibs/designs/fedex-common/images/resources/fx-favicon.ico
+ https://view.message.fedex.com/?qs,16fbf55f883e70c0bb25c5610ca56b2cb164a71300b2fe4f3ca83f15adae01721f06af6ac3dfcabf42d425f663f20123500c27ea9fe5c8c59209190936bfb7def3a0e6a2c85d66ce1b672cbc785a43
+ https://click.message.fedex.com/?qs?d2211f490ccb5a826b565782bfa032c0ebca50474b185df505bb5002255cffe9cfc6710e95718d2052639684350935150f933c5b9ba9191b02bdcf08dd63da
+ https://fervent-dijkstra.193-111-31-245.plesk.page/wp-includes/js../fdn.php
+ https://click.message.fedex.com/?qsà46b57d5a056329638df2ec67401fc2cc71e84954a967d70564c81096370f5afd97c30668d2d03c5432d4475bdef91b578a2cc647ba2f69438dbaa5ea127434","615e16658db221b373f7a0e2fd0d2013.png
+ 823cc3aada8b041eeadc3335ca73e62b.png
+ Invoice. AWB#84248_pdf.htm",0/7,,"中文
+英语",79048,,,
+5,399906956161843327,margaret94@example.org,2024-11-20 15:00:31,DHL Shipment Notification  214380751,default@m01Test.com,no-reply@dhl.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,回复地址不一致钓鱼邮件,威胁邮件,http://www.w3.org/TR/html4/loose.dtd,"part1.2.3.png
+ part1.2.2.png
+ Shipping Documents xls.exe",1/7,,英语,497762,,,
+6,399906956161843297,20231116173048571671@sinchen.cn,2024-11-20 15:00:31,关于2023年公司员工工资津贴相关问题通知,default@m01Test.com,qg@sinchen.cn,M01test@m01Test.com,ty_lifenjin@example.com,,BCC,"二维码罕见URL顶级域名
+低信誉邮件客户端钓鱼邮件",威胁邮件,http://www.zingjoso.ink,2023年度劳动津贴申领详细介绍.docx,0/7,,中文,170751,,,
+7,399906956161843260,6e2bd0bbaea336f3fbfed86b2620a41e@ruimap.com,2024-11-20 15:00:31,办公室通知,default@m01Test.com,fc.zhong@ruimap.com,M01test@m01Test.com,sh_heyang@example.com,,BCC,"回复地址不一致
+二维码罕见URL顶级域名
+低信誉邮件客户端
+欺诈钓鱼话术钓鱼邮件",威胁邮件,"http://asa.fffwiyyeb.bond
+ http://asa.fffwiyyeb.bond
+ http://asa.fffwiyyeb.bond","国家税务总局小程序.png
+ KbJi5e.png",0/7,,中文,88252,,,
+8,399906956161843215,margaret94@example.org,2024-11-20 15:00:31,Purchase Order 4500987785,default@m01Test.com,ALISON.FLORENCE@FIRMENICH.COM,M01test@m01Test.com,margaret94@example.org.cn,,BCC,恶意PE文件钓鱼邮件,威胁邮件,http://www.w3.org/TR/html4/loose.dtd,"PO4500987785.zip
+ fir.png",0/7,,英语,612249,,,
+9,399906947571909022,margaret94@example.org,2024-11-20 15:00:31,"Shipment Document BL,INV and packing list",default@m01Test.com,shipping@DHL.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,钓鱼邮件,威胁邮件,http://www.w3.org/TR/html4/loose.dtd,"DHL Shipment, customs invoice 370930442022.ace
+ thumbnail(1).jpg
+ thumbnail.jpg",0/7,,英语,196710,,,
+10,399906947571908937,margaret94@example.org,2024-11-20 15:00:31,转发: BIHONG PO#0046401(ITH005771) SHIPPING DOCUMENTS BH22020 ,default@m01Test.com,bh108@yjbihong.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,恶意PE文件钓鱼邮件,威胁邮件,http://www.w3.org/TR/html4/loose.dtd,Shipping Documents.rar,0/7,,英语,887976,,,
+11,399906947571908844,1288156876.83055.1728460820613.JavaMail.bcc@smg.sphchina.com,2024-11-20 15:00:31,垃圾邮件隔离所摘要,default@m01Test.com,it.service@sphchina.com,M01test@m01Test.com,xuying@sphchina.com,,BCC,,安全邮件,"https://mailgateway.sphchina.com:41443/brightmail
+ https://mailgateway.sphchina.com:41443/brightmail/releaseSpamMessage.do?id=dUc%2F8zGsrAA%3DrwXz%2B3BSD5rWzgfWflnLRrjS8cdnMT2a2U1K9l1KU38%3D&notify=4Njs4ZMiuHw%3DN4Pq%2Bnq%2B9AoNFH29wYkhnuCpAcuNLnwT
+ http://www.w3.org/1999/xhtml
+ https://mailgateway.sphchina.com:41443/brightmail/viewMsgDetails.do?id=dUc%2F8zGsrAA%3DqOUpxIIV2H2KjPmHfYosl4wtOvbxGS4x%2F07gIS3a3qs%3D&notify=4Njs4ZMiuHw%3DN4Pq%2Bnq%2B9AoNFH29wYkhnuCpAcuNLnwT
+ http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",,0/7,,中文,7806,,,
+12,399906947571908812,2C57015E-676F-44C3-8CC3-3F5C682F2381@126.com,2024-11-20 15:00:31,xls格式预览,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,"图片URL
+静态网站",安全邮件,"https://dashi.163.com/projects/signature-manager/detail/index.html?ftlId=1&name=%E6%B2%88%E5%AE%97%E7%BB%AA&uid=szx_baby_fan%40126.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22szx_baby_fan%40126.com%22%5D
+ https://mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png","xls_1111.xls
+ archive.tar",0/7,,中文,67023,,,
+13,399906947571908713,B468C885-A1BB-4539-947C-01A5CA6FEB34@126.com,2024-11-20 15:00:31,人工智能AI--在网络安全领域中的应用(3)(2),default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,"图片URL
+静态网站
+文件中转站",安全邮件,"http://mimg.127.net/hxm/dashi/client/pc/icon/icon_ppt.png
+ https://dashi.163.com/projects/signature-manager/detail/index.html?ftlId=1&name=%E6%B2%88%E5%AE%97%E7%BB%AA&uid=szx_baby_fan%40126.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22szx_baby_fan%40126.com%22%5D
+ https://mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png
+ https://dashi.163.com/html/cloud-attachment-download/?key=djAyMVl3OTBZaUFIM0tpelVOMzhncEhmUT09",,0/7,,中文,8365,,,
+14,399906947571908675,margaret94@example.org,2024-11-20 15:00:31,APC - Professional Service Invoice fye 09-30-21,default@m01Test.com,dinoyue@chektan.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,URL重定向罕见PE后缀名钓鱼邮件,威胁邮件,"http://www.chektan.com
+ http://www.chektan.com/
+ http://chektan.com/
+ http://chektan
+ https://www.google.com/url?q=http://chektan.com/&source=gmail&ust54239366517000&usg=AOvVaw2vjJ7GZPlfshB1Bo3JgGDb
+ https://www.google.com/url?q=http://www.chektan.com&source=gmail&ust54239366517000&usg=AOvVaw2DgADWGKJPqsWDFjFN3Xqk",SHIPPING INVOICE#202207.zip,0/7,,英语,707308,,,
+15,399906947571908624,margaret94@example.org.tw,2024-11-20 15:00:31,您的包裹已准备好取货 4/3/2022 2:10:45 p.m.,default@m01Test.com,sales@magnifier.com.tw,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"图片URL
+WordPress框架钓鱼话术钓鱼邮件",威胁邮件,"https://www.palacetecedofeita.com//,/d/E.jpg);
+ https://www.palacetecedofeita.com//,/c/ex.jpg);
+ https://www.palacetecedofeita.com//,/g/S.jpg);
+ https://www.palacetecedofeita.com//,/r/ess.webp)
+ https://www.palacetecedofeita.com//,/b/SF.png
+ https://www.palacetecedofeita.com//
+ http://www.w3.org/TR/html4/loose.dtd
+ https://www.palacetecedofeita.com//,/k/F.jpg);
+ http://fervent-dijkstra.193-111-31-245.plesk.page/wp-content/plugins/zxd/NewSF.php
+ https://www.palacetecedofeita.com//,/x/pr.jpg?fit=1424%2C800&ssl=1);",Inv. AWB#85448_pdf.htm,0/7,,"中文
+英语",104058,,,
+16,399906938981974450,06D51AD0-25FC-466C-932B-7300A67824AD@126.com,2024-11-20 15:00:31,云文档,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,"图片URL
+静态网站
+云文档",安全邮件,"https://docs.qq.com/doc/DQklMbEVCdUFzc3dS
+ https://dashi.163.com/projects/signature-manager/detail/index.html?ftlId=1&name=%E6%B2%88%E5%AE%97%E7%BB%AA&uid=szx_baby_fan%40126.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22szx_baby_fan%40126.com%22%5D
+ https://mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png",,0/7,,中文,4828,,,
+17,399906938981974384,C020E0FB-2874-4640-9EBC-1C9DD336E661@126.com,2024-11-20 15:00:31,ppt格式测试,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,"图片URL
+静态网站",安全邮件,"https://dashi.163.com/projects/signature-manager/detail/index.html?ftlId=1&name=%E6%B2%88%E5%AE%97%E7%BB%AA&uid=szx_baby_fan%40126.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22szx_baby_fan%40126.com%22%5D
+ https://mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png","转发.ppt
+ ppt_office.ppt",0/7,,中文,274472,,,
+18,399906938981974355,mis_32A956F57AE34C8D77A1EFBA@exmail.weixin.qq.com,2024-11-20 15:00:31,验证你的工作邮箱,default@m01Test.com,10000@exmail.weixin.qq.com,M01test@m01Test.com,zhangsan@example.com,,BCC,"URL包含邮箱
+图片URL",安全邮件,"https://rescdn.qqmail.com/node/wwqy/qymng/style/images/sass/independent/verify_account_wrap
+ https://rescdn.qqmail.com/node/wwqy/qymng/style/images/sass/independent/verify_account_wrap@4x.png
+ https://exmail.qq.com/qy_mng_logic/reportKV?type=PcPluginSetting&itemName=TxMail_PwdWrong_open
+ https://exmail.qq.com/qy_mng_logic/eml/bind/landing?ticket=EzmWdZ6oh2Agm-yn0QPHraJK1lKoD0KC3i_c06V1xVPaQn70xOfbaE6lFhXxICkpQs-Fi7MV5eLdSTUbvv_ImQ..&type=verify",,0/7,,英语,14180,,,
+19,399906938981974290,770D9C51-56A8-42F9-A266-AFF693982DF9@126.com,2024-11-20 15:00:31,oss存储,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,"图片URL
+OSS存储
+静态网站",安全邮件,"https://storage.googleapis.com/eng-app-storage/7015b3d8-ae7f-11eb-92ce-e65cf20795a6/media/original/8257611a-00cb-11ec-a021-f6536c51b0ff
+ https://dashi.163.com/projects/signature-manager/detail/index.html?ftlId=1&name=%E6%B2%88%E5%AE%97%E7%BB%AA&uid=szx_baby_fan%40126.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22szx_baby_fan%40126.com%22%5D
+ https://mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png",,0/7,,中文,4956,,,
+20,399906938981974225,21940C8E35208E1BEC28B1606F967B37@qcwkhz,2024-11-20 15:00:31,重要提醒：完成邮箱安全认证以保护您的账户,default@m01Test.com,admin@cangsuo.cn,M01test@m01Test.com,xsutton@example.net,,BCC,URL包含邮箱钓鱼话术钓鱼邮件,威胁邮件,https://mail.louhuan.cn/?mail=xsutton@example.net,,0/7,,中文,9074,,,
+21,399906938981974196,margaret94@example.org,2024-11-20 15:00:31,PURCHASE INQUIRY,default@m01Test.com,sales@litegauge.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,钓鱼邮件,威胁邮件,http://www.w3.org/TR/html4/loose.dtd,"Purchase Inquiry.rar
+ Purchase inquiry (2)",1/7,,英语,630830,,,
+22,399906938981974185,margaret94@example.org,2024-11-20 15:00:31,margaret94@example.org.cn sent you files via WeTransfer,default@m01Test.com,no-reply@wetransfer.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,图片URL钓鱼邮件,威胁邮件,"https://wetransfer.zendesk.com/hc/en-us/articles/204909429?utm_campaign=WT_email_tracking&utm_source=notify_recipient_email&utm_medium­d Us To Your Contacts Link&utm_content=general
+ https://wetransfer.zendesk.com/hc/en-us/articles/204909429?utm_campaign=WT_email_tracking&utm_source=notify_recipient_email&utm_mediumd Us To Your Contacts Link&utm_content=general
+ https://wetransfer.com/about?utm_campaign=WT_email_tracking&utm_content=general&utm_medium«out_link&utm_source=notify_recipient_email
+ https://wetransfer.com/?utm_campaign=WT_email_tracking&utm_content=general&utm_medium=logo&utm_source=notify_recipient_email
+ https://prod-cdn.wetransfer.net/assets/email/v2/logos/blue_2x-10b63a7e9107c08c8d89a3f8016c133ae4fcf5afb3e59a65fb17e21eeb83148d.png
+ https://wetransfer.zendesk.com/hc/en-us/articles/204909429?utm_campaign=WT_email_tracking&utm_source=notify_recipient_email&utm_mediumd
+ https://wetransfer.zendesk.com/hc/en-us?utm_campaign=WT_email_tracking&utm_source=notify_recipient_email&utm_medium=Footer Help Link&utm_content=general
+ https://support.okta.com/help/articles/Knowledge_Article/24532952-Platforms---Browser-and-OS-Support
+ https://atcocorp.okta.com/assets/loginpage/css/okta-login-page.min.0f4b9922bfa70975cc884fea7cbd71fa.css
+ https://wetransfer.com/about?utm_campaign=WT_email_tracking&utm_content=general&utm_medium
+ https://wetransfer.zendesk.com/hc/en-us?utm_campaign=WT_email_tracking&utm_source=notify_recipient_email&utm_medium=Footer
+ https://atcocorp.okta.com/assets/js/mvc/loginpage/initLoginPage.pack.34c59a55bb3a42c88a91a86c33d95ad4.js",Document for yjsy@fzu.edu.cn.HTML,0/7,,英语,22811,,,
+23,399906938981974111,margaret94@example.org,2024-11-20 15:00:31,Purchase Order No. I20220052 Dt. 7.04.2022,default@m01Test.com,sandy.hsieh@yanhing.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,URL重定向恶意PE文件钓鱼邮件,威胁邮件,"http://www.w3.org/TR/html4/loose.dtd
+ http://www.yanhing.com/
+ https://www.google.com/url?q=http://www.yanhing.com/&source=gmail&ust49417583099000&usg=AOvVaw1goyyMgQBUrmfxopLzBzjk",PO# I20220052.zip,1/7,,英语,508193,,,
+24,399906938981974110,margaret94@example.org,2024-11-20 15:00:31,Dyeing Order,default@m01Test.com,sourcing@globalgifts.gr,M01test@m01Test.com,margaret94@example.org.cn,,BCC,恶意PE文件钓鱼邮件,威胁邮件,http://www.w3.org/TR/html4/loose.dtd,New OrDer.rar,1/7,,英语,949869,,,
+25,399906938981974063,D8DFB4976BFFA618E1BC50189CE4FC47@iq,2024-11-20 15:00:31,【アコム公式】登録資料のエラーを警告し、あなたのクレジットカードを一時停止します。,default@m01Test.com,acom-card-service@sdautotransportllc.com,M01test@m01Test.com,zhanglin@example.cn,,BCC,钓鱼邮件工具钓鱼邮件,威胁邮件,https://www.articlesmanager.com/,,0/7,,,26642,,,
+26,399906938981974016,margaret94@example.orga.net,2024-11-20 15:00:31,Periodic Associate Editor's report for CDC 2022,default@m01Test.com,paperplaza@paperplaza.net,M01test@m01Test.com,"margaret94@example.org.cn
+margaret94@example.org",,BCC,钓鱼邮件,威胁邮件,"http://css.paperplaza.net/conferences/templates/https://css.paperplaza.net/conferences/scripts/login.pl?74118&d0834d5e3172afa27d00a01ace20288b
+ http://css.paperplaza.net/conferences/templates/javascript:command('Details642')
+ https://css.paperplaza.net/conferences/scripts/login.pl?74118&d0834d5e3172afa27d00a01ace20288b
+ http://css.paperplaza.net/conferences/templates/javascript:command('Details850')
+ http://css.paperplaza.net/conferences/templates/javascript:command('GoToPScanPage850')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Reviews1124')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Reviews642')
+ http://css.paperplaza.net/conferences/templates/javascript:command('GoToPScanPage179')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Report1124')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Report179')
+ http://www.w3.org/TR/html4/strict.dtd
+ http://css.paperplaza.net/conferences/templates/javascript:command('GoToPScanPage642')
+ http://css.paperplaza.net/conferences/templates/https
+ http://css.paperplaza.net/conferences/templates/javascript:command('GoToPScanPage823')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Report850')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Reviews179')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Report642')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Reviews850')
+ http://css.paperplaza.net/conferences/templates/javascript
+ http://css.paperplaza.net/conferences/templates/javascript:command('Details179')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Reviews823')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Details1124')
+ http://css.paperplaza.net/conferences/templates/javascript:command('GoToPScanPage1124')
+ http://css.paperplaza.net/conferences/templates/
+ http://css.paperplaza.net/conferences/templates/javascript:command('Report823')
+ http://css.paperplaza.net/conferences/templates/javascript:command('Details823')",PeriodicReportCDC 2022.html,0/7,,英语,34925,,,
+27,399906930392039822,margaret94@example.org,2024-11-20 15:00:31,Payment Advice - Advice Ref:[A1NtIO94cfao] / ACHcredits / Customer Ref:[1015676834] / Second Party Ref:[2002028205],default@m01Test.com,cha.bel@towingfolsom.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"超长文件名
+显示欺骗钓鱼邮件",威胁邮件,,Payment Advice - Advice Ref[A1NtIO94cfao].zip,1/7,,英语,919350,,,
+28,399906930392039787,margaret94@example.org,2024-11-20 15:00:31,LC DRAFT //PO MT30012//,default@m01Test.com,bestrantech03@bestrantech.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,回复地址不一致恶意PE文件钓鱼邮件,威胁邮件,"http://www.bestrantech.com/
+ http://www.w3.org/TR/html4/loose.dtd
+ http://bestrantech.en.alibaba.com/","LC DRAFT.r00
+ MT30012.zip",0/7,,英语,1257825,,,
+29,399906930392039749,margaret94@example.org,2024-11-20 15:00:31,NOTICE OF ARRIVAL (NOA),default@m01Test.com,delivery@dhl-express.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"双扩展名欺骗
+特殊扩展名欺骗钓鱼邮件",威胁邮件,"https://apis.mail.yahoo.com/ws/v3/mailboxes/
+ https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id=VjN--Fhq8jqZstZUEy0hAi_p0frlBMC3Tk92p3KwpBPLJsKp2F2M7uip1lJBCSA1-y8W4QS589m2ULn4HOf3kMCF_g/messages/@.id=AIikSw84LBnfXlQXlwrNoK2xCQ4/content/parts/@.id=1.2.2/thumbnail?appid=YMailNorrin&downloadWhenThumbnailFails=true&pid=1.2.2",NOTICE OF ARRIVAL.pdf.lzh,0/7,,英语,613072,,,
+30,399906930392039684,xsutton@example.net,2024-11-20 15:00:31,xsutton@example.net异地IP登录！,default@m01Test.com,cg01@glpchina.cn,M01test@m01Test.com,xsutton@example.net,,BCC,"URL包含邮箱
+URL重定向钓鱼话术钓鱼邮件",威胁邮件,http://mailmarketing.digital/?mail=xsutton@example.net&url=http://swhysc.com,,0/7,,中文,3709,,,
+31,399906930392039675,margaret94@example.org,2024-11-20 15:00:31,inquiry / tbn 62 / discharging abt 40 k wheat /EPDA Request,default@m01Test.com,operations@evomarine.eu,M01test@m01Test.com,margaret94@example.org.cn,,BCC,钓鱼邮件,威胁邮件,http://www.w3.org/TR/html4/loose.dtd,Vessel Particulars MV TBN.img,0/7,,英语,122822,,,
+32,399906930392039657,margaret94@example.org,2024-11-20 15:00:31,OVERDUE INVOICES (Please Remit Payment as soon as Possible),default@m01Test.com,info@snyderlawns.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,URL重定向恶意PE文件钓鱼邮件云情报:恶意URL,威胁邮件,"https://www.google.com/url?q=https://nam12.safelinks.protection.outlook.com/?url%3Dhttp%253A%252F%252Femail.trans.serviceautopilot.com%252Fc%252FeJwljs1uxCAQg58muRENA-HnkMNe-h4DDF3UhEQJu1Xevqwq2Qd_kmXzRmUtaVFzYheQhGHSQgevhPMSRdQuuMRaWkNjWhgJvOQx7ttB9S4fgl5pqQQa7MUIs_BJBSHZA2AGKVMay4KACBocgHLgpzkYRLKGc9KMkgYN7aR6TRef7xKZXm0_yrq3qS-NzyWzd0EygiIKNmdHRmmVrLWZTbAwrsuzteMa1GPAr66r3onPlX4r1bR2X5EOnjaq9M09HnRvN8W4v-r_xrmcP2e52t2vrOXNH_gHnA9ZVA%26data%3D04%257C01%257C%257Ce8dcb778c07b4c506d6508da18f80f2b%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C637849751087004622%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%26sdata%3Dv1%252FfxwA3B8Z7FGLJW69WYNm9cj6qMo%252B1Kgme6%252BcssUw%253D%26reserved%3D0&source=gmail&ust52000679227000&usg=AOvVaw0LDCTQ1t5k4sBfq4tsg4-x
+ https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Femail.trans.serviceautopilot.com%2Fc%2FeJwljs1uxCAQg58muRENA-HnkMNe-h4DDF3UhEQJu1Xevqwq2Qd_kmXzRmUtaVFzYheQhGHSQgevhPMSRdQuuMRaWkNjWhgJvOQx7ttB9S4fgl5pqQQa7MUIs_BJBSHZA2AGKVMay4KACBocgHLgpzkYRLKGc9KMkgYN7aR6TRef7xKZXm0_yrq3qS-NzyWzd0EygiIKNmdHRmmVrLWZTbAwrsuzteMa1GPAr66r3onPlX4r1bR2X5EOnjaq9M09HnRvN8W4v-r_xrmcP2e52t2vrOXNH_gHnA9ZVA&data?%7C01%7C%7Ce8dcb778c07b4c506d6508da18f80f2b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7
+
+C0%7C637849751087004622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=v1%2FfxwA3B8Z7FGLJW69WYNm9cj6qMo%2B1Kgme6%2BcssUw%3D&reserved=0
+ https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Femail.trans.serviceautopilot.com%2Fc%2FeJwljs1uxCAQg58muRENA-HnkMNe-h4DDF3UhEQJu1Xevqwq2Qd_kmXzRmUtaVFzYheQhGHSQgevhPMSRdQuuMRaWkNjWhgJvOQx7ttB9S4fgl5pqQQa7MUIs_BJBSHZA2AGKVMay4KACBocgHLgpzkYRLKGc9KMkgYN7aR6TRef7xKZXm0_yrq3qS-NzyWzd0EygiIKNmdHRmmVrLWZTbAwrsuzteMa1GPAr66r3onPlX4r1bR2X5EOnjaq9M09HnRvN8W4v-r_xrmcP2e52t2vrOXNH_gHnA9ZVA&data%7C01%7C%7Ce8dcb778c07b4c506d6508da18f80f2b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637849751087004622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=v1%2FfxwA3B8Z7FGLJW69WYNm9cj6qMo%2B1Kgme6%2BcssUw%3D&reserved=0
+ https://
+ https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Femail.trans.serviceautopilot.com%2Fc%2FeJwljs1uxCAQg58muRENA-HnkMNe-h4DDF3UhEQJu1Xevqwq2Qd_kmXzRmUtaVFzYheQhGHSQgevhPMSRdQuuMRaWkNjWhgJvOQx7ttB9S4fgl5pqQQa7MUIs_BJBSHZA2AGKVMay4KACBocgHLgpzkYRLKGc9KMkgYN7aR6TRef7xKZXm0_yrq3qS-NzyWzd0EygiIKNmdHRmmVrLWZTbAwrsuzteMa1GPAr66r3onPlX4r1bR2X5EOnjaq9M09HnRvN8W4v-r_xrmcP2e52t2vrOXNH_gHnA9ZVA&data=04%7C01%7C%7Ce8dcb778c07b4c506d6508da18f80f2b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637849751087004622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=v1%2FfxwA3B8Z7FGLJW69WYNm9cj6qMo%2B1Kgme6%2BcssUw%3D&reserved=0
+ http://email.trans.serviceautopilot.com/c/eJwljs1uxCAQg58muRENA-HnkMNe-h4DDF3UhEQJu1Xevqwq2Qd_kmXzRmUtaVFzYheQhGHSQgevhPMSRdQuuMRaWkNjWhgJvOQx7ttB9S4fgl5pqQQa7MUIs_BJBSHZA2AGKVMay4KACBocgHLgpzkYRLKGc9KMkgYN7aR6TRef7xKZXm0_yrq3qS-NzyWzd0EygiIKNmdHRmmVrLWZTbAwrsuzteMa1GPAr66r3onPlX4r1bR2X5EOnjaq9M09HnRvN8W4v-r_xrmcP2e52t2vrOXNH_gHnA9ZVA",invoice.rar,0/7,,英语,998805,,,
+33,399906930392039603,margaret94@example.org,2024-11-20 15:00:31,"PFI - PI/EX/INV-133/22, 182820-3 HEAT EXCHANGER15729 & 21503",default@m01Test.com,info@naissent.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,URL重定向恶意PE文件钓鱼邮件,威胁邮件,"http://www.hlnrubber.net
+ http://www.w3.org/TR/html4/loose.dtd
+ https://www.google.com/url?q=http://www.hlnrubber.net/&source=gmail&ust54218656772000&usg=AOvVaw0SwmB4x9JSCkBcahSUdrnY
+ http://www.hlnrubber.net/",0098765PIN098.r09,0/7,,英语,435622,,,
+34,399906930392039566,margaret94@example.org,2024-11-20 15:00:31,Proforma Invoice,default@m01Test.com,mattahir@alcim.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,回复地址不一致钓鱼邮件,威胁邮件,,"Proforma Invoice.exe
+ Packing List.exe",0/7,,英语,197329,,,
+35,399906930392039485,margaret94@example.org,2024-11-20 15:00:31,Indeed for margaret94@example.org.cn,default@m01Test.com,do-not-reply@indeed.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"URL包含邮箱
+图片URL
+OSS存储
+WordPress框架
+OSS存储-图片钓鱼话术钓鱼邮件",威胁邮件,"https://d3fw5vlhllyvee.cloudfront.net/frontend-sentry-bundle/v1.1.2/js/sentry.js?1
+ https://www.indeed.com/legal
+ https://t.indeed.com/gnav/log?from=passport--passport-webapp-%2Faccount%2Flogin\u0026parentLogId=1fi4tlp563kpe000\u0026hostAppTk=
+ https://d3fw5vlhllyvee.cloudfront.net/mosaic-common/dist/380d050e337c7323d668/styles/index.css
+ http://secure.indeed.com/account/login?hl=en_US\u0026service=my\u0026co=US\u0026continue=https%253A%252F%252Fwww.indeed.com%252Flogin
+ https://d3fw5vlhllyvee.cloudfront.net/mosaic-common/dist/380d050e337c7323d668/styles/index.css?cacheKey
+ https://t.indeed.com/gnav/log?from=passport--passport-webapp-%2Faccount%2Flogin
+ https://secure.indeed.com/favicon.ico
+ https://indeed.zendesk.com/hc/en-us?redirect=false
+ https://www.indeed.com/legal#privacy
+ http://tophat-cms-prod.s3.amazonaws.com/wp-content/uploads/2016/02/18221139/logo9.png
+ https://d3fw5vlhllyvee.cloudfront.net/mosaic-common/dist/380d050e337c7323d668/styles/index.css?cacheKey\u0026
+ https://www.indeed.com/support
+ https://graph.facebook.com/v2.12/oauth/authorize?client_id=115882278440564
+ https://d3fw5vlhllyvee.cloudfront.net/dist/
+ https://658ba2886a9642c2b8c035add5a02b63@sentry.indeed.com/44751
+ https://secure.indeed.com/apple-touch-icon.png
+ http://tophat-cms-prod.s3.amazonaws.com/wp-content/uploads/2016/02/18221138/ico-01.png
+ https://camel.headfarming.com/s.js
+ https://www.indeed.com/worldwide?hl=en_US
+ https://www.indeed.com/legal?hl=en_US#cookies
+ https://www.google-analytics.com/analytics.js
+ http://secure.indeed.com/account/login?hl=en_US
+ https://www.indeed.com/legal?hl=en_US#tos
+ https://graph.facebook.com/v2.12/oauth/authorize?client_id=115882278440564\u0026redirect_uri=https%3A%2F%2Fsecure.indeed.com%2Faccount%2Ffbauth\u0026display=popup\u0026scope=email\u0026locale=en_US\u0026state=7hoWAnsIkIrNRGGvubzhL0Wof7ip3ISW
+ https://secure.indeed.com/apple-touch-icon-precomposed.png
+ https://www.indeed.com/legal?hl=en_US
+ https://secure.indeed.com/account/login?hl=en_US&service=my&co=US&continue=https%3A%2F%2Fwww.indeed.com%2Flogin
+ https://www.indeed.com/login
+ https://indeed.zendesk.com/hc/en-us?
+ https://d3fw5vlhllyvee.cloudfront.net/dist/e82d76cae7f567e5f97f/scripts/no_nav_header_external.js?cacheVersion=2
+ https://www.indeed.com/
+ https://t.indeed.com/signals/v1/log?from=passport--passport-webapp-%2Faccount%2Flogin
+ https://secure.indeed.com/account/appleauth
+ https://accounts.google.com/o/oauth2/v2/auth?response_type=code\u0026redirect_uri=https%3A%2F%2Fsecure.indeed.com%2Faccount%2Fgoogleauth\u0026client_id=1047839414793-v442kdo3pt0vb43l8nu2c5sh9lf4bsnj.apps.googleusercontent.com\u0026scope=openid+email\u0026state=7hoWAnsIkIrNRGGvubzhL0Wof7ip3ISW\u0026nonce=DMVI9yGe0AM07zsy\u0026ui_locales=en-US+en
+ https://www.indeed.com/legal?hl=en_US#privacy
+ https://accounts.google.com/o/oauth2/v2/auth?response_type=code
+ https://www.indeed.com/find-jobs.jsp?hl=en_US
+ https://www.indeed.jobs
+ https://d3fw5vlhllyvee.cloudfront.net/passport/static/compiled/9516aceb247cc2454df9/styles/login-page.css
+ https://www.indeed.com/?_ga=2.23468540.795654612.1634400360-267675062.1629893015
+ https://t.indeed.com/signals/v1/log?from=passport--passport-webapp-%2Faccount%2Flogin\u0026parentLogId=1fi4tlp563kpe000\u0026hostAppTk=
+ https://www.indeed.com/legal#tos
+ https://www.gmaax.in/wp-includes/blocks/site-title/reportindeedoriginal2.php
+ https://www.indeed.com/about?hl=en_US",Indeed_File.html,0/7,,英语,45061,,,
+36,399906921802105231,margaret94@example.org,2024-11-20 15:00:31,List of new product items,default@m01Test.com,rud-division@alkuhaimi.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"双扩展名欺骗
+特殊扩展名欺骗钓鱼邮件",威胁邮件,,new item in 2022.pdf.z,1/7,,英语,319172,,,
+37,399906921802105196,margaret94@example.org,2024-11-20 15:00:31,NEW ORDER 4500818323,default@m01Test.com,kahina.medjoub@ntn-snr.fr,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"URL包含邮箱
+URL重定向钓鱼邮件",威胁邮件,"https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail
+ https://www.google.com/url?q=https%3A%2F%2Fwww.avast.com%2Fsig-email%3Futm_medium%3Demail%26utm_source%3Dlink%26utm_campaign%3Dsig-email%26utm_content%3Dwebmail&sa=D&sntz=1&usg
+ https://www.google.com/url?q=https%3A%2F%2Fwww.avast.com%2Fsig-email%3Futm_medium%3Demail%26utm_source%3Dlink%26utm_campaign%3Dsig-email%26utm_content%3Dwebmail&sa=D&sntz=1&usg=AFQjCNFuftbSgu95389HmI-4V1nVL3tGJw
+ https://www.google.com/url?hl=en&q=https://www.google.com/url?q%3Dhttps%253A%252F%252Fwww.avast.com%252Fsig-email%253Futm_medium%253Demail%2526utm_source%253Dlink%2526utm_campaign%253Dsig-email%2526utm_content%253Dwebmail%26sa%3DD%26sntz%3D1%26usg%3DAFQjCNFuftbSgu95389HmI-4V1nVL3tGJw&source=gmail&ust43696738480000&usg=AOvVaw3hB3kHuQ93Fk3YrcA_iyMz
+ http://www.w3.org/TR/html4/loose.dtd
+ https://mail.google.com/mail/u/0/h/1rbqr1e4ealv8/?&cs=wh&v=b&to=margaret94@example.org
+ https://www.google.com/url?q=https%3A%2F%2Fwww.avast.com%2Fsig-email%3Futm_medium%3Demail%26utm_source%3Dlink%26utm_campaign%3Dsig-email%26utm_content%3Dwebmail&sa=D&sntz=1&usg¯QjCNFuftbSgu95389HmI-4V1nVL3tGJw","4500818323.xlsx
+ icon-envelope-tick-green-avg-v1.png",0/7,,英语,114336,,,
+38,399906921802105141,margaret94@example.org,2024-11-20 15:00:31,Bank Information,default@m01Test.com,steve.kriaris@kolonakigroup.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,URL重定向恶意PE文件钓鱼邮件,威胁邮件,"https://www.google.com/url?q=http://www.kolonakigroup.com/&source=gmail&ust50904846182000&usg=AOvVaw1YD_zYrO-yVg-dZxL1mbwR
+ https://www.google.com/url?q=https://m.facebook.com/KolonakiGroup&source=gmail&ust50904846182000&usg=AOvVaw0EjKyh4ud_CWfbG4ZEkXLp
+ https://www.google.com/url?q=https://www.linkedin.com/company/kolonaki-group-inc/&source=gmail&ust50904846182000&usg=AOvVaw3HV5bi_De2e4kpl1t5BVBa
+ http://www.kolonakigroup.com/
+ https://m.facebook.com/KolonakiGroup
+ http://www.w3.org/TR/html4/loose.dtd
+ https://www.linkedin.com/company/kolonaki-group-inc/
+ https://www.google.com/url?q=https://www.instagram.com/kolonakifinewines/&source=gmail&ust50904846182000&usg=AOvVaw15qIxmsOFQEyqEaQzJJC-s
+ https://www.instagram.com/kolonakifinewines/","PO.zip
+ kilo.png",1/7,,英语,581673,,,
+39,399906921802105092,margaret94@example.org,2024-11-20 15:00:31,Next P O 2022,default@m01Test.com,info@blharbert.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,双扩展名欺骗钓鱼邮件,威胁邮件,http://www.w3.org/TR/html4/loose.dtd,April P.O.pdf.zip,0/7,,英语,516509,,,
+40,399906921802105060,margaret94@example.org,2024-11-20 15:00:31,Notification: Purchase order message from Doris Gao,default@m01Test.com,made-in-china@notification.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"URL包含邮箱
+回复地址不一致钓鱼邮件云情报:恶意URL",威胁邮件,"https://www.made-in-china.com/
+ http://www.made-in-china.co
+ https:margaret94@example.org.cn
+ http://www.w3.org/TR/html4/loose.dtd",0,0/7,,英语,159516,,,
+41,399906921802105028,margaret94@example.org,2024-11-20 15:00:31,Issue  invoice List of items,default@m01Test.com,rud-division@alkuhaimi.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"双扩展名欺骗
+特殊扩展名欺骗钓鱼邮件",威胁邮件,,new item in 2022.pdf.z,1/7,,英语,382360,,,
+42,399906921802104986,margaret94@example.org,2024-11-20 15:00:31,APC - Professional Service Invoice fye 09-30-21,default@m01Test.com,dinoyue@chektan.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,URL重定向恶意PE文件钓鱼邮件,威胁邮件,"http://www.chektan.com
+ http://www.chektan.com/
+ http://chektan.com/
+ http://chektan
+ https://www.google.com/url?q=http://chektan.com/&source=gmail&ust54239366517000&usg=AOvVaw2vjJ7GZPlfshB1Bo3JgGDb
+ https://www.google.com/url?q=http://www.chektan.com&source=gmail&ust54239366517000&usg=AOvVaw2DgADWGKJPqsWDFjFN3Xqk",invoice for apc.zip,0/7,,英语,887100,,,
+43,399906921802104949,margaret94@example.org,2024-11-20 15:00:31,Nubwhmbey,default@m01Test.com,Mpusuvrz@sjyl.cc,M01test@m01Test.com,margaret94@example.org.cn,SMTP,镜像,伪造发件人诱导添加QQ钓鱼邮件,威胁邮件,,,0/7,,中文,29124,,,
+44,399906921802104915,margaret94@example.org,2024-11-20 15:00:31, FedEx Shipment 776762072489. This shipment was tendered to FedEx Express,default@m01Test.com,www@nail.ru,M01test@m01Test.com,margaret94@example.org.cn,,BCC,图片URL钓鱼话术钓鱼邮件,威胁邮件,"https://click.message.fedex.com/?qsd2211f490ccb5a826b565782bfa032c0ebca50474b185df505bb5002255cffe9cfc6710e95718d2052639684350935150f933c5b9ba9191b02bdcf08dd63da
+ https://click.message.fedex.com/?qs
+ https://www.fedex.com/content/dam/fedex/us-united-states/self-help/images/2019/Q2/Register_Delivery_Manager_Step_2_1643264634.jpg
+ https://www.fedex.com/etc.clientlibs/designs/fedex-common/images/resources/fx-favicon.ico
+ https://view.message.fedex.com/?qs,16fbf55f883e70c0bb25c5610ca56b2cb164a71300b2fe4f3ca83f15adae01721f06af6ac3dfcabf42d425f663f20123500c27ea9fe5c8c59209190936bfb7def3a0e6a2c85d66ce1b672cbc785a43
+ https://click.message.fedex.com/?qs?d2211f490ccb5a826b565782bfa032c0ebca50474b185df505bb5002255cffe9cfc6710e95718d2052639684350935150f933c5b9ba9191b02bdcf08dd63da
+ https://practical-rubin.103-199-18-23.plesk.page/i/fdg.php
+ https://click.message.fedex.com/?qsà46b57d5a056329638df2ec67401fc2cc71e84954a967d70564c81096370f5afd97c30668d2d03c5432d4475bdef91b578a2cc647ba2f69438dbaa5ea127434","socialiconemailfy22.png
+ Invoice AWEDF44557788. AWB#84248-..xls.htm
+ fedexlogisticslogo2021.png",0/7,,中文,78919,,,
+45,399906921802104879,margaret94@example.org,2024-11-20 15:00:31,FW: 回复:  proforma invoice,default@m01Test.com,20info@discovernewzealand.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,钓鱼邮件邮件主题白名单,安全邮件,,invoice.xlsx,0/7,,英语,477081,,,
+46,399906921802104846,margaret94@example.org,2024-11-20 15:00:31,50% advance payment,default@m01Test.com,info@isarpatent.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,恶意PE文件钓鱼邮件,威胁邮件,"http://www.w3.org/TR/html4/loose.dtd
+ http://www.isarpatent.com",TT copy.rar,0/7,,英语,559896,,,
+47,399906913212170375,margaret94@example.orgin,2024-11-20 15:00:31,Delivery reports about your e-mail,default@m01Test.com,mike@contoso.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,罕见PE后缀名钓鱼邮件,威胁邮件,,attachment.zip,1/7,,英语,31904,,,
+48,399906913212170338,margaret94@example.org.com,2024-11-20 15:00:31,Electronic Invoice Overdue Notice!!,default@m01Test.com,SFbill@sf-express.ebill.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,"URL包含邮箱
+图片URL
+WordPress框架通用钓鱼URL格式钓鱼邮件",威胁邮件,"https://www.google.com/url?q=https:margaret94@example.org&source=gmail&ust49306637357000&usg=AOvVaw1FnFUbSY38I6HAmpcOTqAZ
+ https://media-exp1.licdn.com/dms/image/C561BAQEjRAw1vG8FGA/company-background_10000/0/1578408521231?e=2159024400&v=beta&t=EeZmYw6Me-Hamd1xkIZiLKCDC0XuoU_RzSQGSdXya-8
+ https://www.kindpng.com/picc/m/744-7445051_transparent-dhl-logo-png-dhl-express-png-download.png
+ https://aprilmamagenesh.com/SF/sfz/index.php?email=margaret94@example.org.cn
+ http://www.w3.org/TR/html4/loose.dtd
+ http://v.sf-express.com
+ https://spartansgym.space/wp-content/plugins/wp-dester/dester/ig/smdhln.php
+ https://media-exp1.licdn.com/dms/image/C561BAQEjRAw1vG8FGA/company-background_10000/0/1578408521231?e=2159024400&v=beta&t=EeZmYw6Me-Hamd1xkIZiLKCDC0XuoU_RzSQGSdXya-8);background-size:",AWB-SHIPMENT.html,0/7,,英语,21392,,,
+49,399906913212170298,margaret94@example.org.kr,2024-11-20 15:00:31,"52364_WE Patent_Statement of Account_ APRIL 11, 2022",default@m01Test.com,haandha@haandha.co.kr,M01test@m01Test.com,margaret94@example.org.cn,,BCC,URL重定向钓鱼邮件,威胁邮件,"http://www.pnlinternational.co.kr/
+ http://www.pnlinternational.
+ http://www.pnlinternational.co.kr
+ https://www.google.com/url?q=http://www.pnlinternational.co.kr&source=gmail&ust48621974298000&usg=AOvVaw0BNxmUym11vPzhYxiYk9Ga",STATEMENT OF ACOUNT.r00,1/7,,英语,333911,,,
+50,399906913212170261,margaret94@example.org,2024-11-20 15:00:31,DHL Arrival Notice For AWB#310479442,default@m01Test.com,tracking@dhl.com,M01test@m01Test.com,margaret94@example.org.cn,,BCC,图片URL钓鱼话术钓鱼邮件,威胁邮件,"http://fz-qiming.com//dhl2.jpg
+ https://www.dada-graphic.com//,/ub/Adhl.php
+ https://fz-qiming.com//dhimage.png
+ http://www.w3.org/TR/html4/loose.dtd
+ https://www.dada-graphic.com//",AWB#310479442.htm 正在分析中,0/7,,"英语
+中文",20564,,,
+51,399906904622235688,f596eb5.a1b1.19228f3d434.Coremail.szx_baby_fan@126.com,2024-11-20 15:00:31,126文件中转站,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,"静态网站
+文件中转站邮件URL域白名单",安全邮件,"https://mail.163.com/large-attachment-download/index.html?p=X-NTES-HUGE-ATTACHMENT&file=djAyUmhMTW8zY3dXbFVpb2FuOGViYVA5dz09
+ https://mail.163.com/large-attachment-download/index.html?p=X-NTES-HUGE-ATTACHMENT&file=djAyV3B4ekpURlRHNkxoU1FCanRvVERBdz09",,0/7,,中文,1672,,,
+52,399906904622235721,7766C700-4059-4372-BBF7-89709991C667@126.com,2024-11-20 15:00:00,IP地址,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,"图片URL
+静态网站",安全邮件,"https://192.168.2.124/phishing#link-anchor
+ https://dashi.163.com/projects/signature-manager/detail/index.html?ftlId=1&name=%E6%B2%88%E5%AE%97%E7%BB%AA&uid=szx_baby_fan%40126.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22szx_baby_fan%40126.com%22%5D
+ https://192.168.2.124/phishing
+ https://mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png",,0/7,,中文,4828,,,
+53,399899792156393514,6fe6be3a.35b79.18f0e424924.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,正文混淆,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,正文混淆,威胁邮件,"https://www.mimecast.com/
+ https://www.mimecast.com/.
+ http://www.marketpioneer.com/
+ http://www.hactl.com
+ http://www.marketpioneer.com
+ http://www.marketpioneer..com","CatchBFE8(09-20-09-23-44).jpg
+ image002(09-06-1(09-20-09-23-44).png",0/7,,英语,349892,,,
+54,399899783566459235,59876f5e.eab.18f0f6108e2.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,弱口令密码-rar压缩,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意PE文件后门
+CS木马
+木马
+僵尸网络
+远控",威胁邮件,,URGENT PRICE.rar 威胁,0/7,,中文,1719916,,,
+55,399899783566459184,1a0e2e67.ebd.18f0f6219a4.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,弱口令密码-zip压缩,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意PE文件后门
+外联
+木马
+僵尸网络
+远控钓鱼邮件",威胁邮件,,URGENT PRICE.zip 威胁,0/7,,中文,1831532,,,
+56,399899783566459148,b892fea.39696.18f14ed918e.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,重要文件：请查收并确认iso,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,1.iso,0/7,,中文,2545062,,,
+57,399899783566459125,007001da03a7$1d098613$00067d2b@mail.ru,2024-11-20 14:46:38,Re:7681,default@m01Test.com,volnushkinm91@mail.ru,M01test@m01Test.com,yan.chen@cbhb.com.cn,SMTP,镜像,伪造发件人诱导添加QQ钓鱼邮件,威胁邮件,,aDQxPllgZDTRj.gif,0/7,,中文,459825,,,
+58,399899783566459091,b236a158-15fd-4264-a4d7-e9648ad72a3b@nextcloud.games,2024-11-20 14:46:38,附件为《薪资调整说明 》协办发，请查收并遵照执行!,default@m01Test.com,robots@nextcloud.games,M01test@m01Test.com,robots@nextcloud.games,,BCC,二维码罕见URL顶级域名钓鱼邮件本地情报,威胁邮件,"https://kk.wtxhgav.sbs
+ https://kk.wtxhgav.sbs",薪资调整说明.rar 安全,0/7,,中文,410546,,,
+59,399899783566459048,3e3ce435-6f4c-4277-b869-6f7db86e9ef9@nextcloud.games,2024-11-20 14:46:38,关于在招标过程中存在不公平问题的反馈,default@m01Test.com,robots@nextcloud.games,M01test@m01Test.com,robots@nextcloud.games,,BCC,"加密压缩包超长文件名
+显示欺骗",威胁邮件,,关于在招标过程中存在问题的反馈.zip 沙箱原因提交失败,0/7,,中文,19039,,,
+60,399899783566459008,20230816075714052465@smales.net.cn,2024-11-20 14:46:38,关于个人所得税综合所得汇算清缴事项的公告,default@m01Test.com,pcw@smales.net.cn,M01test@m01Test.com,tt@xzsad.com.cn,,BCC,"二维码罕见URL顶级域名
+低信誉邮件客户端
+欺诈钓鱼话术钓鱼邮件",威胁邮件,"http://www.diudwggajgag.ink
+ http://www.diudwggajgag.ink",photo_2023-08-15_21-13-03.jpg,0/7,,中文,11045,,,
+61,399899783566458967,4b3d7e34.aec.18f0f2dc153.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,加密压缩包7Z,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意exe附件
+恶意dll附件
+恶意PE文件后门
+CS木马
+木马",威胁邮件,,mimikatz(zhiqiansec).7z 威胁,0/7,,中文,694422,,,
+62,399899783566458931,3fa8aa4a.f62.18f0f6c30de.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,超复杂密码加密附件-7z,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包后门
+CS木马
+木马",威胁邮件,,超复杂密码加密附件.7z 威胁,0/7,,中文,11062,,,
+63,399899783566458908,d6d5eb3.396a5.18f14f0937c.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,查看正文并参与合作-nim,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,自2023年财务审批制落实评价工作方案0712.zip,0/7,,中文,2405027,,,
+64,399899783566458885,22dbca25.c31.18f0f3e4377.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38, 超复杂密码加密rar,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包后门
+CS木马
+木马",威胁邮件,,超复杂密码加密附件.rar 威胁,0/7,,中文,11221,,,
+65,399899774976524824,403b4b4c.352dd.18f0de98ca6.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,附件为《薪资调整说明 》协办发，请查收并遵照执行!,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,薪资调整说明.docx,0/7,,中文,140297,,,
+66,399899774976524802,20231102030059.F1D2ECD8B8E422A6@nri.co.jp,2024-11-20 14:46:38,顺丰电子发票出票通知,default@m01Test.com,shanghai@nri.co.jp,M01test@m01Test.com,infoservices@cninfo.com.cn,SMTP,镜像,"URL包含邮箱
+伪造发件人昵称伪造
+钓鱼话术钓鱼邮件",威胁邮件,http://rhinegold.de/ghy/S.F.Express%20shipping/S.F.Express%20shippings/S.F.Express%20shippings/?email=infoservices@cninfo.com.cn,,0/7,,中文,7514,,,
+67,399899774976524771,20240122071833.4C789FF28934046E@fapiao.com.cn,2024-11-20 14:46:38,【电子发票】您收到一张新的电子发票[发票号码:29730940],default@m01Test.com,service@fapiao.com.cn,M01test@m01Test.com,wangxb@citic.com,,BCC,"图片URL钓鱼话术HTML:Phishing-CTV
+外联
+钓鱼
+HTML/Phishing.Agent.EZT钓鱼邮件",威胁邮件,"https://i.gyazo.com/429548e6cd1f7f512c1dcbd0003caaeb.png
+ https://i.gyazo.com/97fa22398eecc10061faa658e528684a.png
+ https://chennaiconnections.com/YrxghqG/beat/lognet20e.php","Electronic Invoice_64549934192-2023_JPG.htm 威胁
+ Electronic Invoice_64549934192-2023 PDF.htm 威胁",3/7,,中文,20911,,,
+68,399899774976524738,7a8c325c.35512.18f0e0c2435.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,钓鱼邮件,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,URL包含邮箱钓鱼话术钓鱼邮件,威胁邮件,"https://okcnu.llozomnfe.com/cj/login/yjycq@szse.cn
+ https://moe.edu.cn
+ https://okcnu.llozomnfe.com/cj/login/yjycq",,0/7,,中文,6539,,,
+69,399899774976524703,39f85593.35a6b.18f0e2a0a69.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,贵公司报税申请事项,default@m01Test.com,a15038845903@foxmail.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"图片URL
+文件中转站钓鱼邮件邮件主题黑名单",威胁邮件,"http://res.mail.qq.com/zh_CN/htmledition/images/icon_att.gif
+ http://mimg.127.net/hxm/dashi/client/pc/icon/icon_zip.png
+ https://wx.mail.qq.com/home/index?t=readmail_businesscard_midpage&nocheck=true&name=%E6%8A%A5%E7%A8%8E%E7%AE%A1%E7%90%86%E5%91%98&icon=http%3A%2F%2Fthirdqq.qlogo.cn%2Fg%3Fb%3Doidb%26k%3DgbzszOon2fAdH6ar5eaOFA%26kti%3DZNwnWAAAAAI%26s%3D100%26t%3D1483323347&mail=a15038845903%40foxmail.com&code=mvxdScwBFoPlgjj004BcYwiMHS0eTbC9lb1d9xaxlH2eN0vICH989In87K2sqnSLG_P4jl0Yi34nPZa6AMNrRTNCeKFiuVu6MSDVZOOUStM
+ http://thirdqq.qlogo.cn/g?b=oidb&k=gbzszOon2fAdH6ar5eaOFA&kti=ZNwnWAAAAAI&s=100&t=1483323347
+ https://wx.mail.qq.com/ftn/download?func=3&k=ccce476548805312febd196563663064d627306561663064161e4f110555085656081a0658560849555705504c025601031c0604585f005c04575154535e2f64db858280e4cad5eb8bd7bdc086cebe83a782dfcad6828aefda908e4b1b0f407017fe0d3bcc98e98e737108d199694369f048ad2d&key=ccce476548805312febd196563663064d627306561663064161e4f110555085656081a0658560849555705504c025601031c0604585f005c04575154535e2f64db858280e4cad5eb8bd7bdc086cebe83a782dfcad6828aefda908e4b1b0f407017fe0d3bcc98e98e737108d199694369f048ad2d&code=317eaf0d&from=",gwurhnfvehhxdwlr.flv,0/7,,中文,16380,,,
+70,399899774976524661,4cdc3b2d.b11.18f0f2f3bf3.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,加密压缩包-zip,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意exe附件
+恶意dll附件
+恶意PE文件后门
+CS木马
+木马",威胁邮件,,mimikatz(zhiqiansec).zip 威胁,0/7,,中文,858299,,,
+71,399899774976524628,5b3f6211.3c1.18f0ec5fb32.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,福利,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,二维码罕见URL顶级域名营销广告,可疑邮件,http://wap.xujuit.work,,0/7,,中文,53879,,,
+72,399899774976524595,af59624.b5f.18f0f335f06.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,加密压缩包-rar,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意exe附件
+恶意dll附件
+恶意PE文件后门
+CS木马
+木马",威胁邮件,,mimikatz(zhiqiansec).rar 威胁,0/7,,中文,733622,,,
+73,399899774976524561,400be111.ed9.18f0f63c3b8.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,超复杂密码加密附件-zip,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包后门
+CS木马
+木马",威胁邮件,,超复杂密码加密附件.zip 威胁,0/7,,中文,11499,,,
+74,399899774976524504,e3b295ecac1d65d1aefb003b2864c6b9@clleyh.com,2024-11-20 14:46:38,《发票信息》,default@m01Test.com,dqgeebso@clleyh.com,M01test@m01Test.com,talent@ebchinatech.com,,BCC,"URL包含邮箱
+图片URL
+静态网站
+URL重定向
+URL包含压缩文件诱导下载压缩包",可疑邮件,"https://mailgw.ebchina.com/linkserver?dest=https://pay.nuonuo.com/nuotongfupc/
+ https://mailgw.ebchina.com/linkserver?dest=https://ads.nuonuo.com/jumpPage.html?taskId=5362&materialNo=202301127159869998&type=0&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=2
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=1
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com/
+ https://inv.jss.com.cn/group3/M00/1A/13/wKj6y2NjfuaICa8uAAAcHL2uMVQAAE91AK4LakAABw0581.png
+ http://linktrace.easeyedelivery.com/MailLink/LogoImageHandler.jpg?EASEYEUID=N132-GI2DSMRS-GIZTAMZRGYYTENBXGA4DCOBWGE3TCMY-JY-F3366D02&
+ https://inv.jss.com.cn/group3/M02/1E/0F/wKj6y2JNSQ6IWB9SAAANtY67EpkAAFsfAEANkAAAA3N030.png
+ https://adscdn.nuonuo.com/514665810C6C4BF5B3C30BD24BD0E777/700-90-2.png
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com/#/platform/goods&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=5
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=0
+ http://rz0fnncw3.hn-bkt.clouddn.com/fapiao.zip
+ https://mailgw.ebchina.com/linkserver?dest=https://pay.nuonuo.com/nuotongfupc/#/home&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=4
+ https://inv.jss.com.cn/group3/M00/0F/12/wKj6y2NjfuaIaVJrAADABuPrGZQAAI9zgD1cccAAMAe46.jpeg
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com/#/partners&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=3",,0/7,,中文,9780,,,
+75,399899774976524442,,2024-11-20 14:46:38,人气女k优 黒木y香 视频(ad) 529b36270d423032 zqa-email,default@m01Test.com,circlestiger1@circlestiger.com,M01test@m01Test.com,piggy@nextcloud.games,,BCC,二维码低信誉邮件客户端附件MD5白名单,安全邮件,"http://www.zzbdgsl.com/stat.asp?p=TU02TTk%2FODU0OTU1NDI1QHFxLmNvbT82MTQ5Mg%3D%3D.mp4
+ http://g.72vm.com
+ http://g.72vm.com",虫调你摩缝.齿订动颤.jpg,0/7,,中文,113037,,,piggy@nextcloud.games
+76,399899774976524405,4f21de45.ab8.18f0f2b87b3.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,exe压缩到zip中,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"恶意exe附件
+恶意dll附件
+恶意PE文件外联
+蠕虫
+木马
+勒索",威胁邮件,,14.wcry.zip 威胁,1/7,,中文,4765559,,,
+77,399899774976524377,tencent_70884EB674B83E06BF338FE8022574057407@qq.com,2024-11-20 14:46:38,wps补丁,default@m01Test.com,457727300@qq.com,M01test@m01Test.com,tangliang@chd.com.cn,,BCC,营销广告,营销邮件,http://10.108.235.80:6869/download/12805.setup_CN_2052_11.8.2.12085_Professional_VBA_FZFonts_CHD.exe,,0/7,,英语,4597,,,
+78,399899774976524354,3bf65dbb.eb3.18f0f619ad0.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,弱口令密码-7z压缩,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包罕见PE后缀名数据窃取
+外联
+木马",威胁邮件,,NEW P.O3421280.7z 威胁,0/7,,中文,55044,,,
+79,399899774976524330,58f45491.396a1.18f14ef4248.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,您的账户更新one,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,SHIPPING_DOC.one,0/7,,中文,56261,,,
+80,399899774976524308,629aa4d8.44e.18f0ecd58a5.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,園笁珒萜嗵倁,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,二维码罕见URL顶级域名钓鱼邮件,威胁邮件,http://wap.xujuet.work,,0/7,,中文,67433,,,
+81,399899774976524288,202312121416575516250@wfwzs.cn,2024-11-20 14:46:38,附件为《薪资调整说明 》协办发，请查收并遵照执行!,default@m01Test.com,6049982@wfwzs.cn,M01test@m01Test.com,txxe12@axxc.com,,BCC,钓鱼邮件,威胁邮件,,薪资调整说明.docx,0/7,,中文,141508,,,
+82,399899766386589966,0a12b7c2-f448-4cf1-b548-85be05a87e02@nextcloud.games,2024-11-20 14:46:38,恶意域名检测,default@m01Test.com,robots@changepassword-yahoo.com,M01test@m01Test.com,robots@robots.com,,BCC,,安全邮件,,,0/7,,英语,1158,,,
+83,399899766386589930,A57B1F3B-CFD9-4CAF-B1C1-6AD27F3BF02D@nextcloud.games,2024-11-20 14:46:38,恶意url测试,default@m01Test.com,shenzongxu@nextcloud.games,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,罕见URL顶级域名钓鱼邮件,威胁邮件,http://bmeila.fgwemil.bond/,,0/7,,中文,2778,,,
+84,399899766386589926,146f2338.35571.18f0e11752a.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,可疑oa网站,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,1437,0/7,,"中文
+英语",34976,,,
+85,399899766386589904,062A60FB48B89F11A96FB4D5C329D67C@hmqyajc,2024-11-20 14:46:38,关于公司2023最新个人所得税退税申请通知,default@m01Test.com,caiwu@pjjlbjd.cn,M01test@m01Test.com,cxxxtg@tt.com.cn,,BCC,二维码罕见URL顶级域名钓鱼邮件,威胁邮件,http://eea.wtu18jgron.bond,,0/7,,中文,63367,,,ccecc-hongkong@ccecc.com.cn
+86,399899766386589884,0a12b7c2-f448-4cf1-b548-85be05a87e02@nextcloud.games,2024-11-20 14:46:38,恶意发件人检测,default@m01Test.com,caiwu@pjjlbjd.cn,M01test@m01Test.com,robots@robots.com,,BCC,,安全邮件,,,0/7,,英语,1107,,,
+87,399899766386589859,450a90dd.35956.18f0e19ed49.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,shenzongxu@nectcloud.games限时申请,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,二维码罕见URL顶级域名钓鱼邮件,威胁邮件,"http://www.baosudeua.ink
+ http://www.baosudeua.ink",ek9M07e09OdORe07QOg.gif,0/7,,中文,52881,,,
+88,399899766386589832,20230821151902.2D9D6AC0083@webmail.sinamail.sina.com.cn,2024-11-20 14:46:38,【共克时艰】2023年企业薪资调整通知,default@m01Test.com,haitong_system@sina.com,M01test@m01Test.com,jobs@ttrr.com.cn,,BCC,"OSS存储
+OSS存储-文档钓鱼邮件",威胁邮件,https://master.s3-us-east-1.ossfiles.com/%E5%85%B1%E5%85%8B%E6%97%B6%E8%89%B0-2023%E5%B9%B4%E4%BC%81%E4%B8%9A%E8%96%AA%E8%B5%84%E8%B0%83%E6%95%B4%E9%80%9A%E7%9F%A5.docx,,0/7,,中文,5924,,,
+89,399899766386589793,b6456f1e73e505afaba92d1b33e0d7f8@kctc.net,2024-11-20 14:46:38,通知-请今日查收,default@m01Test.com,cbmiller@kctc.net,M01test@m01Test.com,010-56535412zhaopengju@basic.csds.com,SMTP,镜像,"图片URL
+伪造发件人远程加载二维码钓鱼邮件云情报:恶意URL
+云情报:恶意发件人",威胁邮件,"https://store.steampowered.com/
+ https://help.steampowered.com
+ https://www.valvesoftware.com/en/
+ https://store.cloudflare.steamstatic.com/public/shared/images/email/logo.png
+ https://store.steampowered.com/about/
+ https://help.steampowered.cnauthorizedLogin?stoken=R0J8IsuviVuha3JaTlHOONblnraHdTRdCyMLpAfBa%2BNbdaW9tqpEtk1OdaEbzx3%2BE8gNTRT00HZnuqK%2BjcNYe3FNT4tYsYFPvKBzya0pmjA%3D
+ https://store.cloudflare.steamstatic.com/public/shared/images/email/logo_footer.png
+ https://store.cloudflare.steamstatic.com/public/shared/images/email/logo_valve.jpg
+ https://img1.imgtp.com/2023/09/17/XGY5jlm3.jpg
+ https://help.steampowered..com",,0/7,,中文,29060,,,
+90,399899766386589755,,2024-11-20 14:46:38,邮件安全防病毒检测-APC_bind_shell.exe(修改Content-Disposition) 7b5ffc48d2d1bd10 zqa-email,default@m01Test.com,circlestiger2@circlestiger.com,M01test@m01Test.com,piggy@nextcloud.games,,BCC,,安全邮件,,05.APC_bind_shell.exe,0/7,,中文,15420,,,piggy@nextcloud.games
+91,399899766386589734,1584565f.3593b.18f0e1785ca.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,关于攻防演练期间更新杀毒软件的通知,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,热点事件钓鱼钓鱼邮件,威胁邮件,https://admin.online.360.cn/client-download-page/downloads?token=hZIlgpVEtG%2B8%2BHnVLiPXXAN8HhvkYSqQmXKqCRfPNeAUuYFKFlZHUrk1yAjJXf4C,,0/7,,中文,6204,,,
+92,399899766386589706,20230920192157.6FD242AF50239E0D@wxltec.com,2024-11-20 14:46:38,SF-Express 电子发票/提单,default@m01Test.com,test@wxltec.com,M01test@m01Test.com,cmbc@cmbc.com.cn,SMTP,镜像,"图片URL
+伪造发件人钓鱼话术Trojan/HTML.Phishing.dx
+HTML:Phishing-CTV
+外联
+木马
+钓鱼
+HTML/Phishing.Agent.EZT钓鱼邮件",威胁邮件,"https://i.gyazo.com/429548e6cd1f7f512c1dcbd0003caaeb.png
+ https://i.gyazo.com/97fa22398eecc10061faa658e528684a.png
+ http://www.w3.org/TR/html4/loose.dtd
+ https://submit-form.com/zsvn3r3s",SF电子发票2010220399-2023pdf.htm 威胁,4/7,,"中文
+英语",15272,,,
+93,399899757796655302,4bb85df6.793.18f0eff292f.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,rar压缩包,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,恶意PE文件,可疑邮件,,04.Empire_Cplus_cmd不加密.rar,0/7,,中文,8243,,,
+94,399899757796655264,tencent_54A4180095D7C5EA9963BFE893460707E30A@qq.com,2024-11-20 14:46:38,贵公司报税申请事项.zip,default@m01Test.com,a15038845903@foxmail.com,M01test@m01Test.com,hxxan@sasdc.cn,,BCC,"图片URL
+文件中转站钓鱼邮件",威胁邮件,"https://res.mail.qq.com/zh_CN/htmledition/images/icon_att.gif
+ https://rescdn.qqmail.com/qqmail/assets/compress32.png
+ https://wx.mail.qq.com/home/index?t=readmail_businesscard_midpage&nocheck=true&name=%E6%8A%A5%E7%A8%8E%E7%AE%A1%E7%90%86%E5%91%98&icon=http%3A%2F%2Fthirdqq.qlogo.cn%2Fg%3Fb%3Doidb%26k%3DgbzszOon2fAdH6ar5eaOFA%26kti%3DZNwnWAAAAAI%26s%3D100%26t%3D1483323347&mail=a15038845903%40foxmail.com&code=mvxdScwBFoPlgjj004BcYwiMHS0eTbC9lb1d9xaxlH2eN0vICH989In87K2sqnSLG_P4jl0Yi34nPZa6AMNrRTNCeKFiuVu6MSDVZOOUStM
+ http://thirdqq.qlogo.cn/g?b=oidb&k=gbzszOon2fAdH6ar5eaOFA&kti=ZNwnWAAAAAI&s=100&t=1483323347
+ https://wx.mail.qq.com/ftn/download?func=3&k=ccce476548805312febd196563663064d627306561663064161e4f110555085656081a0658560849555705504c025601031c0604585f005c04575154535e2f64db858280e4cad5eb8bd7bdc086cebe83a782dfcad6828aefda908e4b1b0f407017fe0d3bcc98e98e737108d199694369f048ad2d&key=ccce476548805312febd196563663064d627306561663064161e4f110555085656081a0658560849555705504c025601031c0604585f005c04575154535e2f64db858280e4cad5eb8bd7bdc086cebe83a782dfcad6828aefda908e4b1b0f407017fe0d3bcc98e98e737108d199694369f048ad2d&code=317eaf0d&from=",gwurhnfvehhxdwlr.flv,0/7,,中文,18410,,,
+95,399899757796655232,2dad2a2c.adf.18f0f2d1267.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,exe压缩到7Z中,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"恶意PE文件后门
+CS木马
+木马",威胁邮件,,01.CS_rev_80_https.exe.7z 威胁,1/7,,中文,9358,,,
+96,399899757796655214,20230809140603.1775976@ArchW,2024-11-20 14:46:38,"test Wed, 09 Aug 2023 14:06:03 +0800",default@m01Test.com,test233@relaxcloud.cn,M01test@m01Test.com,test@phishunt.cn,,BCC,,安全邮件,,hello.pdf,0/7,,英语,2101,,,
+97,399899757796655188,23ed7022.35150.18f0dd15e01.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,cs远程加载宏_remote_bad.docx,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,cs远程加载宏_remote_bad.docx,0/7,,中文,16868,,,
+98,399899757796655166,20230810052901.0001223A002C@localhost.localdomain,2024-11-20 14:46:38,Hvv专项安全自查通知,default@m01Test.com,liutianyu@nextcloud.games,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,诱导下载安装云情报:恶意发件人,威胁邮件,https://admin.online.360.cn/client-download-page/downloads?token=05l4ty%2Fphrcib6u%2BGZ7l2ZRz4%2F1o7XvZsS%2FKw0bx8iy1ToNnm94tL7HFhMbjvBpn,,0/7,,中文,6473,,,
+99,399899757796655144,10037c46.35119.18f0dce5a5f.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38, pcode绕过_cs_macro_2.doc,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,pcode绕过_cs_macro_2.doc,0/7,,中文,56697,,,
+100,399899757796655125,,2024-11-20 14:46:38,你好 CS生成的基本word宏_word_cs_macro.doc cf89a67447781271 zqa-email,default@m01Test.com,connectdy1@connectdy.com,M01test@m01Test.com,piggy@nextcloud.games,,BCC,,安全邮件,,CS生成的基本word宏_word_cs_macro.doc,0/7,,中文,61303,,,piggy@nextcloud.games
+101,399899757796655106,6bfeb1e2.350d8.18f0dcaddc9.Coremail.szx_baby_fan@126.com,2024-11-20 14:46:38,CVE-2022-30190-1.docx,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,CVE-2022-30190-1.docx,0/7,,中文,15902,,,
+102,399898984702541836,6fe6be3a.35b79.18f0e424924.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,正文混淆,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,正文混淆,威胁邮件,"https://www.mimecast.com/
+ https://www.mimecast.com/.
+ http://www.marketpioneer.com/
+ http://www.hactl.com
+ http://www.marketpioneer.com
+ http://www.marketpioneer..com","image002(09-06-1(09-20-09-23-44).png
+ CatchBFE8(09-20-09-23-44).jpg",0/7,,英语,349892,,,
+103,399898976112607563,59876f5e.eab.18f0f6108e2.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,弱口令密码-rar压缩,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意PE文件后门
+CS木马
+木马
+僵尸网络
+远控",威胁邮件,,URGENT PRICE.rar 威胁,0/7,,中文,1719916,,,
+104,399898976112607512,1a0e2e67.ebd.18f0f6219a4.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,弱口令密码-zip压缩,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意PE文件后门
+外联
+木马
+僵尸网络
+远控钓鱼邮件",威胁邮件,,URGENT PRICE.zip 威胁,0/7,,中文,1831532,,,
+105,399898976112607474,007001da03a7$1d098613$00067d2b@mail.ru,2024-11-20 14:44:38,Re:7681,default@m01Test.com,volnushkinm91@mail.ru,M01test@m01Test.com,yan.chen@cbhb.com.cn,SMTP,镜像,伪造发件人诱导添加QQ钓鱼邮件,威胁邮件,,aDQxPllgZDTRj.gif,0/7,,中文,459825,,,
+106,399898976112607452,b892fea.39696.18f14ed918e.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,重要文件：请查收并确认iso,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,1.iso,0/7,,中文,2545062,,,
+107,399898976112607419,b236a158-15fd-4264-a4d7-e9648ad72a3b@nextcloud.games,2024-11-20 14:44:38,附件为《薪资调整说明 》协办发，请查收并遵照执行!,default@m01Test.com,robots@nextcloud.games,M01test@m01Test.com,robots@nextcloud.games,,BCC,二维码罕见URL顶级域名钓鱼邮件本地情报,威胁邮件,"https://kk.wtxhgav.sbs
+ https://kk.wtxhgav.sbs",薪资调整说明.rar 安全,0/7,,中文,410546,,,
+108,399898976112607379,20230816075714052465@smales.net.cn,2024-11-20 14:44:38,关于个人所得税综合所得汇算清缴事项的公告,default@m01Test.com,pcw@smales.net.cn,M01test@m01Test.com,tt@xzsad.com.cn,,BCC,"二维码罕见URL顶级域名
+低信誉邮件客户端
+欺诈钓鱼话术钓鱼邮件",威胁邮件,"http://www.diudwggajgag.ink
+ http://www.diudwggajgag.ink",photo_2023-08-15_21-13-03.jpg,0/7,,中文,11045,,,
+109,399898976112607349,22dbca25.c31.18f0f3e4377.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38, 超复杂密码加密rar,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包后门
+CS木马
+木马",威胁邮件,,超复杂密码加密附件.rar 威胁,0/7,,中文,11221,,,
+110,399898976112607327,403b4b4c.352dd.18f0de98ca6.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,附件为《薪资调整说明 》协办发，请查收并遵照执行!,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,薪资调整说明.docx,0/7,,中文,140297,,,
+111,399898976112607296,3e3ce435-6f4c-4277-b869-6f7db86e9ef9@nextcloud.games,2024-11-20 14:44:38,关于在招标过程中存在不公平问题的反馈,default@m01Test.com,robots@nextcloud.games,M01test@m01Test.com,robots@nextcloud.games,,BCC,"加密压缩包超长文件名
+显示欺骗",威胁邮件,,关于在招标过程中存在问题的反馈.zip 沙箱原因提交失败,0/7,,中文,19039,,,
+112,399898976112607262,400be111.ed9.18f0f63c3b8.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,超复杂密码加密附件-zip,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包后门
+CS木马
+木马",威胁邮件,,超复杂密码加密附件.zip 威胁,0/7,,中文,11499,,,
+113,399898976112607237,20231102030059.F1D2ECD8B8E422A6@nri.co.jp,2024-11-20 14:44:38,顺丰电子发票出票通知,default@m01Test.com,shanghai@nri.co.jp,M01test@m01Test.com,infoservices@cninfo.com.cn,SMTP,镜像,"URL包含邮箱
+伪造发件人昵称伪造
+钓鱼话术钓鱼邮件",威胁邮件,http://rhinegold.de/ghy/S.F.Express%20shipping/S.F.Express%20shippings/S.F.Express%20shippings/?email=infoservices@cninfo.com.cn,,0/7,,中文,7514,,,
+114,399898967522673158,4b3d7e34.aec.18f0f2dc153.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,加密压缩包7Z,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意exe附件
+恶意dll附件
+恶意PE文件后门
+CS木马
+木马",威胁邮件,,mimikatz(zhiqiansec).7z 威胁,0/7,,中文,694422,,,
+115,399898967522673122,3fa8aa4a.f62.18f0f6c30de.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,超复杂密码加密附件-7z,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包后门
+CS木马
+木马",威胁邮件,,超复杂密码加密附件.7z 威胁,0/7,,中文,11062,,,
+116,399898967522673091,20240122071833.4C789FF28934046E@fapiao.com.cn,2024-11-20 14:44:38,【电子发票】您收到一张新的电子发票[发票号码:29730940],default@m01Test.com,service@fapiao.com.cn,M01test@m01Test.com,wangxb@citic.com,,BCC,"图片URL钓鱼话术HTML:Phishing-CTV
+外联
+钓鱼
+HTML/Phishing.Agent.EZT钓鱼邮件",威胁邮件,"https://i.gyazo.com/429548e6cd1f7f512c1dcbd0003caaeb.png
+ https://i.gyazo.com/97fa22398eecc10061faa658e528684a.png
+ https://chennaiconnections.com/YrxghqG/beat/lognet20e.php","Electronic Invoice_64549934192-2023_JPG.htm 威胁
+ Electronic Invoice_64549934192-2023 PDF.htm 威胁",3/7,,中文,20911,,,
+117,399898967522673051,4cdc3b2d.b11.18f0f2f3bf3.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,加密压缩包-zip,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意exe附件
+恶意dll附件
+恶意PE文件后门
+CS木马
+木马",威胁邮件,,mimikatz(zhiqiansec).zip 威胁,0/7,,中文,858299,,,
+118,399898967522673019,d6d5eb3.396a5.18f14f0937c.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,查看正文并参与合作-nim,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,自2023年财务审批制落实评价工作方案0712.zip,0/7,,中文,2405027,,,
+119,399898967522672977,7a8c325c.35512.18f0e0c2435.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,钓鱼邮件,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,URL包含邮箱钓鱼话术钓鱼邮件,威胁邮件,"https://okcnu.llozomnfe.com/cj/login/yjycq@szse.cn
+ https://moe.edu.cn
+ https://okcnu.llozomnfe.com/cj/login/yjycq",,0/7,,中文,6539,,,
+120,399898967522672963,39f85593.35a6b.18f0e2a0a69.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,贵公司报税申请事项,default@m01Test.com,a15038845903@foxmail.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"图片URL
+文件中转站钓鱼邮件邮件主题黑名单",威胁邮件,"http://res.mail.qq.com/zh_CN/htmledition/images/icon_att.gif
+ http://mimg.127.net/hxm/dashi/client/pc/icon/icon_zip.png
+ https://wx.mail.qq.com/home/index?t=readmail_businesscard_midpage&nocheck=true&name=%E6%8A%A5%E7%A8%8E%E7%AE%A1%E7%90%86%E5%91%98&icon=http%3A%2F%2Fthirdqq.qlogo.cn%2Fg%3Fb%3Doidb%26k%3DgbzszOon2fAdH6ar5eaOFA%26kti%3DZNwnWAAAAAI%26s%3D100%26t%3D1483323347&mail=a15038845903%40foxmail.com&code=mvxdScwBFoPlgjj004BcYwiMHS0eTbC9lb1d9xaxlH2eN0vICH989In87K2sqnSLG_P4jl0Yi34nPZa6AMNrRTNCeKFiuVu6MSDVZOOUStM
+ http://thirdqq.qlogo.cn/g?b=oidb&k=gbzszOon2fAdH6ar5eaOFA&kti=ZNwnWAAAAAI&s=100&t=1483323347
+ https://wx.mail.qq.com/ftn/download?func=3&k=ccce476548805312febd196563663064d627306561663064161e4f110555085656081a0658560849555705504c025601031c0604585f005c04575154535e2f64db858280e4cad5eb8bd7bdc086cebe83a782dfcad6828aefda908e4b1b0f407017fe0d3bcc98e98e737108d199694369f048ad2d&key=ccce476548805312febd196563663064d627306561663064161e4f110555085656081a0658560849555705504c025601031c0604585f005c04575154535e2f64db858280e4cad5eb8bd7bdc086cebe83a782dfcad6828aefda908e4b1b0f407017fe0d3bcc98e98e737108d199694369f048ad2d&code=317eaf0d&from=",gwurhnfvehhxdwlr.flv,0/7,,中文,16380,,,
+121,399898967522672894,e3b295ecac1d65d1aefb003b2864c6b9@clleyh.com,2024-11-20 14:44:38,《发票信息》,default@m01Test.com,dqgeebso@clleyh.com,M01test@m01Test.com,talent@ebchinatech.com,,BCC,"URL包含邮箱
+图片URL
+静态网站
+URL重定向
+URL包含压缩文件诱导下载压缩包",可疑邮件,"https://mailgw.ebchina.com/linkserver?dest=https://pay.nuonuo.com/nuotongfupc/
+ https://mailgw.ebchina.com/linkserver?dest=https://ads.nuonuo.com/jumpPage.html?taskId=5362&materialNo=202301127159869998&type=0&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=2
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=1
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com/
+ https://inv.jss.com.cn/group3/M00/1A/13/wKj6y2NjfuaICa8uAAAcHL2uMVQAAE91AK4LakAABw0581.png
+ http://linktrace.easeyedelivery.com/MailLink/LogoImageHandler.jpg?EASEYEUID=N132-GI2DSMRS-GIZTAMZRGYYTENBXGA4DCOBWGE3TCMY-JY-F3366D02&
+ https://inv.jss.com.cn/group3/M02/1E/0F/wKj6y2JNSQ6IWB9SAAANtY67EpkAAFsfAEANkAAAA3N030.png
+ https://adscdn.nuonuo.com/514665810C6C4BF5B3C30BD24BD0E777/700-90-2.png
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com/#/platform/goods&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=5
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=0
+ http://rz0fnncw3.hn-bkt.clouddn.com/fapiao.zip
+ https://mailgw.ebchina.com/linkserver?dest=https://pay.nuonuo.com/nuotongfupc/#/home&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=4
+ https://inv.jss.com.cn/group3/M00/0F/12/wKj6y2NjfuaIaVJrAADABuPrGZQAAI9zgD1cccAAMAe46.jpeg
+ https://mailgw.ebchina.com/linkserver?dest=https://fp.nuonuo.com/#/partners&tid=_____wA3TR4Op9FkW7SGAA--.44620S3&rcpt=talent@ebchinatech.com&ifnotice=1&rindex=3",,0/7,,中文,9780,,,
+122,399898967522672828,af59624.b5f.18f0f335f06.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,加密压缩包-rar,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包恶意exe附件
+恶意dll附件
+恶意PE文件后门
+CS木马
+木马",威胁邮件,,mimikatz(zhiqiansec).rar 威胁,0/7,,中文,733622,,,
+123,399898967522672795,5b3f6211.3c1.18f0ec5fb32.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,福利,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,二维码罕见URL顶级域名营销广告,可疑邮件,http://wap.xujuit.work,,0/7,,中文,53879,,,
+124,399898967522672765,,2024-11-20 14:44:38,人气女k优 黒木y香 视频(ad) 529b36270d423032 zqa-email,default@m01Test.com,circlestiger1@circlestiger.com,M01test@m01Test.com,piggy@nextcloud.games,,BCC,二维码低信誉邮件客户端附件MD5白名单,安全邮件,"http://www.zzbdgsl.com/stat.asp?p=TU02TTk%2FODU0OTU1NDI1QHFxLmNvbT82MTQ5Mg%3D%3D.mp4
+ http://g.72vm.com
+ http://g.72vm.com",虫调你摩缝.齿订动颤.jpg,0/7,,中文,113037,,,piggy@nextcloud.games
+125,399898967522672738,tencent_70884EB674B83E06BF338FE8022574057407@qq.com,2024-11-20 14:44:38,wps补丁,default@m01Test.com,457727300@qq.com,M01test@m01Test.com,tangliang@chd.com.cn,,BCC,营销广告,营销邮件,http://10.108.235.80:6869/download/12805.setup_CN_2052_11.8.2.12085_Professional_VBA_FZFonts_CHD.exe,,0/7,,英语,4597,,,
+126,399898967522672712,450a90dd.35956.18f0e19ed49.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,shenzongxu@nectcloud.games限时申请,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,二维码罕见URL顶级域名钓鱼邮件,威胁邮件,"http://www.baosudeua.ink
+ http://www.baosudeua.ink",ek9M07e09OdORe07QOg.gif,0/7,,中文,52881,,,
+127,399898967522672678,4f21de45.ab8.18f0f2b87b3.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,exe压缩到zip中,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"恶意exe附件
+恶意dll附件
+恶意PE文件外联
+蠕虫
+木马
+勒索",威胁邮件,,14.wcry.zip 威胁,1/7,,中文,4765559,,,
+128,399898967522672646,3bf65dbb.eb3.18f0f619ad0.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,弱口令密码-7z压缩,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"加密压缩包罕见PE后缀名数据窃取
+外联
+木马",威胁邮件,,NEW P.O3421280.7z 威胁,0/7,,中文,55044,,,
+129,399898958932738315,146f2338.35571.18f0e11752a.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,可疑oa网站,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,1437,0/7,,"中文
+英语",34976,,,
+130,399898958932738295,58f45491.396a1.18f14ef4248.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,您的账户更新one,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,SHIPPING_DOC.one,0/7,,中文,56261,,,
+131,399898958932738272,629aa4d8.44e.18f0ecd58a5.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,園笁珒萜嗵倁,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,二维码罕见URL顶级域名钓鱼邮件,威胁邮件,http://wap.xujuet.work,,0/7,,中文,67433,,,
+132,399898958932738252,0a12b7c2-f448-4cf1-b548-85be05a87e02@nextcloud.games,2024-11-20 14:44:38,恶意域名检测,default@m01Test.com,robots@changepassword-yahoo.com,M01test@m01Test.com,robots@robots.com,,BCC,,安全邮件,,,0/7,,英语,1158,,,
+133,399898958932738236,0a12b7c2-f448-4cf1-b548-85be05a87e02@nextcloud.games,2024-11-20 14:44:38,恶意发件人检测,default@m01Test.com,caiwu@pjjlbjd.cn,M01test@m01Test.com,robots@robots.com,,BCC,,安全邮件,,,0/7,,英语,1107,,,
+134,399898958932738217,A57B1F3B-CFD9-4CAF-B1C1-6AD27F3BF02D@nextcloud.games,2024-11-20 14:44:38,恶意url测试,default@m01Test.com,shenzongxu@nextcloud.games,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,罕见URL顶级域名钓鱼邮件,威胁邮件,http://bmeila.fgwemil.bond/,,0/7,,中文,2778,,,
+135,399898958932738196,202312121416575516250@wfwzs.cn,2024-11-20 14:44:38,附件为《薪资调整说明 》协办发，请查收并遵照执行!,default@m01Test.com,6049982@wfwzs.cn,M01test@m01Test.com,txxe12@axxc.com,,BCC,钓鱼邮件,威胁邮件,,薪资调整说明.docx,0/7,,中文,141508,,,
+136,399898958932738175,062A60FB48B89F11A96FB4D5C329D67C@hmqyajc,2024-11-20 14:44:38,关于公司2023最新个人所得税退税申请通知,default@m01Test.com,caiwu@pjjlbjd.cn,M01test@m01Test.com,cxxxtg@tt.com.cn,,BCC,二维码罕见URL顶级域名钓鱼邮件,威胁邮件,http://eea.wtu18jgron.bond,,0/7,,中文,63367,,,ccecc-hongkong@ccecc.com.cn
+137,399898958932738152,20230821151902.2D9D6AC0083@webmail.sinamail.sina.com.cn,2024-11-20 14:44:38,【共克时艰】2023年企业薪资调整通知,default@m01Test.com,haitong_system@sina.com,M01test@m01Test.com,jobs@ttrr.com.cn,,BCC,"OSS存储
+OSS存储-文档钓鱼邮件",威胁邮件,https://master.s3-us-east-1.ossfiles.com/%E5%85%B1%E5%85%8B%E6%97%B6%E8%89%B0-2023%E5%B9%B4%E4%BC%81%E4%B8%9A%E8%96%AA%E8%B5%84%E8%B0%83%E6%95%B4%E9%80%9A%E7%9F%A5.docx,,0/7,,中文,5924,,,
+138,399898958932738113,b6456f1e73e505afaba92d1b33e0d7f8@kctc.net,2024-11-20 14:44:38,通知-请今日查收,default@m01Test.com,cbmiller@kctc.net,M01test@m01Test.com,010-56535412zhaopengju@basic.csds.com,SMTP,镜像,"图片URL
+伪造发件人远程加载二维码钓鱼邮件云情报:恶意URL
+云情报:恶意发件人",威胁邮件,"https://store.steampowered.com/
+ https://help.steampowered.com
+ https://www.valvesoftware.com/en/
+ https://store.cloudflare.steamstatic.com/public/shared/images/email/logo.png
+ https://store.steampowered.com/about/
+ https://help.steampowered.cnauthorizedLogin?stoken=R0J8IsuviVuha3JaTlHOONblnraHdTRdCyMLpAfBa%2BNbdaW9tqpEtk1OdaEbzx3%2BE8gNTRT00HZnuqK%2BjcNYe3FNT4tYsYFPvKBzya0pmjA%3D
+ https://store.cloudflare.steamstatic.com/public/shared/images/email/logo_footer.png
+ https://store.cloudflare.steamstatic.com/public/shared/images/email/logo_valve.jpg
+ https://img1.imgtp.com/2023/09/17/XGY5jlm3.jpg
+ https://help.steampowered..com",,0/7,,中文,29060,,,
+139,399898958932738075,,2024-11-20 14:44:38,邮件安全防病毒检测-APC_bind_shell.exe(修改Content-Disposition) 7b5ffc48d2d1bd10 zqa-email,default@m01Test.com,circlestiger2@circlestiger.com,M01test@m01Test.com,piggy@nextcloud.games,,BCC,,安全邮件,,05.APC_bind_shell.exe,0/7,,中文,15420,,,piggy@nextcloud.games
+140,399898950342803671,4bb85df6.793.18f0eff292f.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,rar压缩包,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,恶意PE文件,可疑邮件,,04.Empire_Cplus_cmd不加密.rar,0/7,,中文,8243,,,
+141,399898950342803633,tencent_54A4180095D7C5EA9963BFE893460707E30A@qq.com,2024-11-20 14:44:38,贵公司报税申请事项.zip,default@m01Test.com,a15038845903@foxmail.com,M01test@m01Test.com,hxxan@sasdc.cn,,BCC,"图片URL
+文件中转站钓鱼邮件",威胁邮件,"https://res.mail.qq.com/zh_CN/htmledition/images/icon_att.gif
+ https://rescdn.qqmail.com/qqmail/assets/compress32.png
+ https://wx.mail.qq.com/home/index?t=readmail_businesscard_midpage&nocheck=true&name=%E6%8A%A5%E7%A8%8E%E7%AE%A1%E7%90%86%E5%91%98&icon=http%3A%2F%2Fthirdqq.qlogo.cn%2Fg%3Fb%3Doidb%26k%3DgbzszOon2fAdH6ar5eaOFA%26kti%3DZNwnWAAAAAI%26s%3D100%26t%3D1483323347&mail=a15038845903%40foxmail.com&code=mvxdScwBFoPlgjj004BcYwiMHS0eTbC9lb1d9xaxlH2eN0vICH989In87K2sqnSLG_P4jl0Yi34nPZa6AMNrRTNCeKFiuVu6MSDVZOOUStM
+ http://thirdqq.qlogo.cn/g?b=oidb&k=gbzszOon2fAdH6ar5eaOFA&kti=ZNwnWAAAAAI&s=100&t=1483323347
+ https://wx.mail.qq.com/ftn/download?func=3&k=ccce476548805312febd196563663064d627306561663064161e4f110555085656081a0658560849555705504c025601031c0604585f005c04575154535e2f64db858280e4cad5eb8bd7bdc086cebe83a782dfcad6828aefda908e4b1b0f407017fe0d3bcc98e98e737108d199694369f048ad2d&key=ccce476548805312febd196563663064d627306561663064161e4f110555085656081a0658560849555705504c025601031c0604585f005c04575154535e2f64db858280e4cad5eb8bd7bdc086cebe83a782dfcad6828aefda908e4b1b0f407017fe0d3bcc98e98e737108d199694369f048ad2d&code=317eaf0d&from=",gwurhnfvehhxdwlr.flv,0/7,,中文,18410,,,
+142,399898950342803604,1584565f.3593b.18f0e1785ca.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,关于攻防演练期间更新杀毒软件的通知,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,热点事件钓鱼钓鱼邮件,威胁邮件,https://admin.online.360.cn/client-download-page/downloads?token=hZIlgpVEtG%2B8%2BHnVLiPXXAN8HhvkYSqQmXKqCRfPNeAUuYFKFlZHUrk1yAjJXf4C,,0/7,,中文,6204,,,
+143,399898950342803576,20230920192157.6FD242AF50239E0D@wxltec.com,2024-11-20 14:44:38,SF-Express 电子发票/提单,default@m01Test.com,test@wxltec.com,M01test@m01Test.com,cmbc@cmbc.com.cn,SMTP,镜像,"图片URL
+伪造发件人钓鱼话术Trojan/HTML.Phishing.dx
+HTML:Phishing-CTV
+外联
+木马
+钓鱼
+HTML/Phishing.Agent.EZT钓鱼邮件",威胁邮件,"https://i.gyazo.com/429548e6cd1f7f512c1dcbd0003caaeb.png
+ https://i.gyazo.com/97fa22398eecc10061faa658e528684a.png
+ http://www.w3.org/TR/html4/loose.dtd
+ https://submit-form.com/zsvn3r3s",SF电子发票2010220399-2023pdf.htm 威胁,4/7,,"中文
+英语",15272,,,
+144,399898950342803545,2dad2a2c.adf.18f0f2d1267.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,exe压缩到7Z中,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,"恶意PE文件后门
+CS木马
+木马",威胁邮件,,01.CS_rev_80_https.exe.7z 威胁,1/7,,中文,9358,,,
+145,399898950342803522,23ed7022.35150.18f0dd15e01.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,cs远程加载宏_remote_bad.docx,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,cs远程加载宏_remote_bad.docx,0/7,,中文,16868,,,
+146,399898950342803502,20230809140603.1775976@ArchW,2024-11-20 14:44:38,"test Wed, 09 Aug 2023 14:06:03 +0800",default@m01Test.com,test233@relaxcloud.cn,M01test@m01Test.com,test@phishunt.cn,,BCC,,安全邮件,,hello.pdf,0/7,,英语,2101,,,
+147,399898950342803482,6bfeb1e2.350d8.18f0dcaddc9.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38,CVE-2022-30190-1.docx,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,CVE-2022-30190-1.docx,0/7,,中文,15902,,,
+148,399898950342803460,20230810052901.0001223A002C@localhost.localdomain,2024-11-20 14:44:38,Hvv专项安全自查通知,default@m01Test.com,liutianyu@nextcloud.games,M01test@m01Test.com,shenzongxu@relaxcloud.cn,,BCC,诱导下载安装云情报:恶意发件人,威胁邮件,https://admin.online.360.cn/client-download-page/downloads?token=05l4ty%2Fphrcib6u%2BGZ7l2ZRz4%2F1o7XvZsS%2FKw0bx8iy1ToNnm94tL7HFhMbjvBpn,,0/7,,中文,6473,,,
+149,399898941752868885,,2024-11-20 14:44:38,你好 CS生成的基本word宏_word_cs_macro.doc cf89a67447781271 zqa-email,default@m01Test.com,connectdy1@connectdy.com,M01test@m01Test.com,piggy@nextcloud.games,,BCC,,安全邮件,,CS生成的基本word宏_word_cs_macro.doc,0/7,,中文,61303,,,piggy@nextcloud.games
+150,399898941752868866,10037c46.35119.18f0dce5a5f.Coremail.szx_baby_fan@126.com,2024-11-20 14:44:38, pcode绕过_cs_macro_2.doc,default@m01Test.com,szx_baby_fan@126.com,M01test@m01Test.com,shenzongxu@nextcloud.games,,BCC,,安全邮件,,pcode绕过_cs_macro_2.doc,0/7,,中文,56697,,,
