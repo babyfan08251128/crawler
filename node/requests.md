@@ -37,3 +37,13 @@ allow_redirects=False
 verify=False
 ```
 
+####  bs4
+
+1. 安装`beautifulsoup4`:`pip install beautifulsoup4`
+2. `beautifulsoup`导包: `from bs4 import BeautifulSoup`
+3. `beautifulsoup`转换类型: `BeautifulSoup(html)`
+4. `find`方法返回一个解析完毕的对象
+5. `findall`方法返回的是解析列表`list`
+6. `select`方法返回的是解析列表`list`
+7. 获取属性的方法: `get('属性名字')`
+8. 和获取文本的方法: `get_text()`
